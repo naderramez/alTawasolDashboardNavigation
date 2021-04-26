@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/alTawasolDashboardNavigation/static/css/main.3d8bf851.chunk.css",
+    "main.js": "/alTawasolDashboardNavigation/static/js/main.e2687440.chunk.js",
+    "main.js.map": "/alTawasolDashboardNavigation/static/js/main.e2687440.chunk.js.map",
+    "runtime-main.js": "/alTawasolDashboardNavigation/static/js/runtime-main.a7a8591a.js",
+    "runtime-main.js.map": "/alTawasolDashboardNavigation/static/js/runtime-main.a7a8591a.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/alTawasolDashboardNavigation/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.cfd63638.chunk.js": "/alTawasolDashboardNavigation/static/js/2.cfd63638.chunk.js",
+    "static/js/2.cfd63638.chunk.js.map": "/alTawasolDashboardNavigation/static/js/2.cfd63638.chunk.js.map",
+    "static/js/3.fe8e20f1.chunk.js": "/alTawasolDashboardNavigation/static/js/3.fe8e20f1.chunk.js",
+    "static/js/3.fe8e20f1.chunk.js.map": "/alTawasolDashboardNavigation/static/js/3.fe8e20f1.chunk.js.map",
+    "index.html": "/alTawasolDashboardNavigation/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/alTawasolDashboardNavigation/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.3d8bf851.chunk.css.map": "/alTawasolDashboardNavigation/static/css/main.3d8bf851.chunk.css.map",
+    "static/js/2.cfd63638.chunk.js.LICENSE.txt": "/alTawasolDashboardNavigation/static/js/2.cfd63638.chunk.js.LICENSE.txt",
+    "static/media/Dribbble.d2821850.png": "/alTawasolDashboardNavigation/static/media/Dribbble.d2821850.png",
+    "static/media/home.css": "/alTawasolDashboardNavigation/static/media/bg.33e5c71f.png",
+    "static/media/holder svg.9779ab93.svg": "/alTawasolDashboardNavigation/static/media/holder svg.9779ab93.svg",
+    "static/media/logo.6ce24c58.svg": "/alTawasolDashboardNavigation/static/media/logo.6ce24c58.svg",
+    "static/media/too bus logo.66a2a77b.png": "/alTawasolDashboardNavigation/static/media/too bus logo.66a2a77b.png",
+    "static/media/too locatins logo.f566ef98.png": "/alTawasolDashboardNavigation/static/media/too locatins logo.f566ef98.png",
+    "static/media/too map logo.fb721bb8.png": "/alTawasolDashboardNavigation/static/media/too map logo.fb721bb8.png",
+    "static/media/too-logo.1e877f79.png": "/alTawasolDashboardNavigation/static/media/too-logo.1e877f79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a8591a.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.cfd63638.chunk.js",
+    "static/css/main.3d8bf851.chunk.css",
+    "static/js/main.e2687440.chunk.js"
+  ]
+}
