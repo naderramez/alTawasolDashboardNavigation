@@ -1,0 +1,120 @@
+.pageContainer {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-image: url("../../assets/last-version/bg.png");
+  background-size: cover;
+  width: 100vw;
+  color: black;
+  font-weight: bold;
+}
+
+#alTawasolTitle {
+  text-align: center;
+  padding-top: 2em;
+}
+
+#mainDashboard {
+  background-image: -webkit-gradient(linear, left top, right top, from(#317BAE), to(#16C0E8));
+  background-image: linear-gradient(to right, #317BAE, #16C0E8);
+  color: white;
+  font-weight: bold;
+  display: inline;
+  border-radius: 20px;
+  padding: 0 .5em;
+  font-size: 2em;
+}
+
+#cards-container {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+#cards-div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.too-card {
+  border-radius: 10px;
+  display: inline-block;
+  margin: 0 1em;
+}
+
+.too-card .too-card-body {
+  background-color: #EDEDED;
+  border-radius: 10px 10px 0 0;
+  padding: 0 2em;
+}
+
+.too-card .too-card-footer {
+  color: white;
+  text-align: center;
+  padding: .7em 0;
+  border-radius: 0 0 10px 10px;
+  font-size: 1.5em;
+}
+
+.too-card #first-card-footer {
+  background-image: -webkit-gradient(linear, left top, right top, from(#1C73AE), to(#329CE3));
+  background-image: linear-gradient(to right, #1C73AE, #329CE3);
+}
+
+.too-card #second-card-footer {
+  background-image: -webkit-gradient(linear, left top, right top, from(#247EA7), to(#32BCF8));
+  background-image: linear-gradient(to right, #247EA7, #32BCF8);
+}
+
+.too-card #third-card-footer {
+  background-image: -webkit-gradient(linear, left top, right top, from(#317BAE), to(#18A8CA));
+  background-image: linear-gradient(to right, #317BAE, #18A8CA);
+}
+
+.too-card #fourth-card-footer {
+  background-image: -webkit-gradient(linear, left top, right top, from(#179588), to(#1BBAAB));
+  background-image: linear-gradient(to right, #179588, #1BBAAB);
+}
+
+#social-accounts-container #social-accounts-title {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#social-accounts-container #social-platform-cards-container {
+  margin-bottom: 2em;
+}
+
+.social-platform-card {
+  display: inline-block;
+  position: relative;
+}
+
+.social-platform-card .platform-card-div {
+  position: absolute;
+  width: 80%;
+  left: 8%;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.social-platform-card .platform-card-div .platform-card-text {
+  margin-top: auto;
+  margin-bottom: auto;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  text-align: center;
+  font-size: 1.4em;
+}
+/*# sourceMappingURL=home.css.map */

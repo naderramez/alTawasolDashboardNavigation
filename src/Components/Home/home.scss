@@ -1,0 +1,117 @@
+.pageContainer {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  // background-image: url("../../assets/background-img.jpeg");
+  background-image: url("../../assets/last-version/bg.png");
+  // background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  color: black;
+  font-weight: bold;
+}
+
+#alTawasolTitle {
+  text-align: center;
+  padding-top: 2em;
+}
+
+#mainDashboard {
+  // background-color: #19C2EA;
+  // background-image: url("../../assets/svg/main-dashboard-div.svg");
+  background-image: linear-gradient(to right, #317BAE, #16C0E8);
+  color: white;
+  font-weight: bold;
+  display: inline;
+  border-radius: 20px;
+  padding: 0 .5em;
+  font-size: 2em;
+}
+
+#cards-container {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+#cards-div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.too-card {
+  border-radius: 10px;
+  display: inline-block;
+  margin: 0 1em;
+  
+  .too-card-body {
+    background-color: #EDEDED;
+    border-radius: 10px 10px 0 0;
+    padding: 0 2em;
+  }
+
+  .too-card-footer {
+    color: white;
+    text-align: center;
+    padding: .7em 0;
+    border-radius: 0 0 10px 10px;
+    font-size: 1.5em;
+  }
+
+  #first-card-footer {
+    background-image: linear-gradient(to right, #1C73AE, #329CE3);
+  }
+
+  #second-card-footer {
+    background-image: linear-gradient(to right, #247EA7, #32BCF8);
+  }
+
+  #third-card-footer {
+    background-image: linear-gradient(to right, #317BAE, #18A8CA);
+  }
+
+  #fourth-card-footer {
+    background-image: linear-gradient(to right, #179588, #1BBAAB);
+  }
+}
+
+#social-accounts-container {
+
+  #social-accounts-title {
+    font-size: 1.5em;
+    text-align: center;
+  }
+
+  #social-platform-cards-container {
+    margin-bottom: 2em;
+  }
+}
+
+.social-platform-card {
+  display: inline-block;
+  position: relative;
+
+  .platform-card-div {
+    position: absolute;
+    width: 80%;
+    left: 8%;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+
+    .platform-card-text {
+      margin-top: auto;
+      margin-bottom: auto;
+      flex-grow: 1;
+      text-align: center;
+      font-size: 1.4em;
+    }
+  }
+
+  // .side-logo {
+  //   position: absolute;
+  //   left: 7%;
+  //   top: 50%;
+  //   transform: translateY(-50%);
+  // }
+}
